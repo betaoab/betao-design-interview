@@ -48,7 +48,5 @@ Associating a previously added client to the invoice, removing the client, addin
 1.2 - In no more than 2 paragraphs, please describe how you would structure your work if you were tasked to improve the general aesthetics of the application.
 
 ### 2. UX Review
-Through the above screen recordings, you have seen how the users can add, edit, remove a client from an invoice.
-
-
-
+Through the above screen recordings, you have seen how users can add, edit, remove a client from an invoice. 
+Can you review these three flows, and share the largest area of improvement that you can think of?
