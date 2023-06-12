@@ -43,10 +43,10 @@ Associating a previously added client to the invoice, removing the client, addin
 **For all the following questions, you are allowed to attach any images/diagrams/scribbles/handwriting to your submission, if they help illustrate your points.**
 
 ### 1. General aesthetics/Accessibility/UI Review
-1.1 - In no more than 3 paragraphs, please review the general aesthetics and the visual accessibility of the application shown above. Among your findings, what would you say is the one that should be prioritized first? Why? (Suggestions on how to solve any highlighted flaws are not expected in your answer.)
+1.1 - In no more than 3 paragraphs (+optional images), please review the general aesthetics and the visual accessibility of the application shown above. Among your findings, what would you say is the one that should be prioritized first? Why? (Suggestions on how to solve any highlighted flaws are not expected in your answer.)
 
-1.2 - In no more than 2 paragraphs, please describe how you would structure your work if you were tasked to improve the general aesthetics of the application.
+1.2 - In no more than 2 paragraphs (+optional images), please describe how you would structure your work if you were tasked to improve the general aesthetics of the application.
 
 ### 2. UX Review
 Through the above screen recordings, you have seen how users can add, edit, remove a client from an invoice. 
-Can you review these three flows, and share the largest area of improvement that you can think of?
+Now, we invite you to review these three flows and identify the interactions that you believe requires the highest priority for improvement. Please explain your choice and the reasons behind it. Maximum 2 paragraphs (+images).
