@@ -2,9 +2,9 @@
 Thank you for your application to our Product Designer opening!
 
 # Summary
-This exercise is a practical case which involves reviewing, critizing and suggest improvements to an existing design. This exercise is intentionally grounded in the reality of our work, as the design you'll be reviewing is taken directly from one of the earlier versions of our products.
+This exercise is a practical case which involves reviewing, criticizing and highlighting areas of improvements of an existing design. This exercise is intentionally grounded in the reality of our work, as the design you'll be reviewing is taken directly from one of the earlier versions of our products.
 
-While our products are currently tailored to a French audience, and the design and content reflect that, we encourage everyone to participate, regardless of their French language proficiency. If you come across unfamiliar words, feel free to use Google Translate for assistance. We don't restrict ourselves to hiring only French speakers for this role. Our designers always collaborate closely with their project managers to ensure cohesive copy. 
+While our products are currently tailored to a French audience, and the design and content reflect that, we encourage everyone to participate, regardless of their French language proficiency. If you come across unfamiliar words, feel free to use Google Translate for assistance. We don't restrict ourselves to hiring only French speakers for this role. Our designers always collaborate closely with their product managers to ensure cohesive copy. 
 
 What we're seeking is someone with a discerning eye for layouts, colors, interactions, and simplicity. Through this exercise, we invite you to showcase all of your qualities and skills.
 As we are mindful of our candidate's time, we voluntarily limit the size of the expected deliverables: keep in mind that there will be no "bonus" whatsoever for submissions that go beyond the limitations. We are aware that you will be working with very little context, and as such we are more interested in your thought process and reasoning behind your answers rather than their correctness.
