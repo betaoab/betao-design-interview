@@ -49,4 +49,5 @@ Associating a previously added client to the invoice, removing the client, addin
 
 ### 2. UX Review
 Through the above screen recordings, you have seen how users can add, edit, remove a client from an invoice. 
-Now, we invite you to review these three flows and identify the interactions that you believe requires the highest priority for improvement. Please explain your choice and the reasons behind it. Maximum 2 paragraphs (+images).
+Now, we invite you to review these three flows and identify the interactions that you believe requires the highest priority for improvement. Please explain your choice and the thought process behind it. We are mostly expecting a description of the process you would engage in to define and rank the areas of improvements, rather than giving a final answer. If you would require research or data to support your process, please specify what would it be, and how you would use it.
+Maximum 2 paragraphs (+images).
